@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="orange.png">
+  <img src="orange.svg">
 </p>
 
 
