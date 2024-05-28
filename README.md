@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="orange.svg" width="555" height="597" viewBox="0 0 555 597">
+  <img src="orange.png">
 </p>
 
 
