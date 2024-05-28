@@ -3,6 +3,9 @@
   <img src="orange.png">
 </p>
 
+
+# Usage
+
 ```
 wget https://raw.githubusercontent.com/everydayikillmylinux/orange-sh/main/orange.sh
 ```
