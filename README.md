@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="orange.svg" weight="555" height="597">
+  <img src="orange.svg" weight="300" height="200">
 </p>
 
 
