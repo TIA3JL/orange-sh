@@ -142,26 +142,34 @@ drawAsciiArt()
 {
 	printf "\e[33m"
 	cat << "EOF"
-
-    ___          ,
-    `  `--.    ,'
-     `.    \  /    |
-       `-.._\/    .|/
-            /   ---X--
-            |     /|`
-      _,--''''-..  |
-    ,'           `.
-   /               `.
-  /                  \
- |                    |
- |                    | TEXT HERE
- |                    | TEXT HERE
- |                    |
-  \                  /
-  '.                /
-    `.            ,'
-      `.._ __ _,-'
-
+                 ___          ,
+                 `  `--.    ,'
+                  `.    \  /    |
+                    `-.._\/    .|/
+                         /   ---X--
+                         |     /|`
+                   _,--''''-..  |
+                 ,'           `.
+                /               `.
+               /                  \
+              |                    |
+              |                    |
+              |                    |
+              |                    |
+               \                  /
+               '.                /
+                 `.            ,'
+                   `.._ __ _,-'
+ --------------------------------------------------.
+|  The Adventures of Orange in the Starry World.   |
+|                                                  |
+|    Once in the vast terminal, Orange appeared    |
+|Feeling hungry, he set off in search of sustenance|
+|    Soon, Orange noticed a shimmering Asterisk    |
+|   Without hesitation, he hurried to devour it    |
+|           Having satisfied his hunger,           |
+|         Orange continued his journey ...         |
+`--------------------------------------------------'
 EOF
 	printf "\e[0m"
 }
