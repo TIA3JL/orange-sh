@@ -20,8 +20,14 @@ chmod +x orange.sh
 
 # Usage
 
-
-
+After completing the installation above, run the script.
+```bash
+./orange.sh
+```
+Also try running this script with arguments like:
+```bash
+./orange.sh --about
+```
 
 <div align = center>
 <img src="orange.png">
