@@ -24,7 +24,7 @@ After completing the installation above, run the script.
 ```bash
 ./orange.sh
 ```
-Also try running this script with arguments like:
+Also try running this script for more info with arguments like:
 ```bash
 ./orange.sh --help
 ```
