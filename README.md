@@ -41,7 +41,7 @@ Close game: `Q`, `Ctrl+C`, window resize
 
 ---
 
-Special thanks to @raylduk8 for this precious storyline!
+Special thanks to [raylduk8](https://github.com/raylduk8) for this precious storyline
 
 <div align = center>
 <img src="ascii_art.png">
