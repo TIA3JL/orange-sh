@@ -35,9 +35,9 @@ or
 ## Notes: 
 You can increase the number of asterisks at the beginning of the .sh file you want to eat!
 
-`W`,`A`,`S`,`D` or `H`,`J`,`K`,`L` - movement keys
+Movement keys: `W`,`A`,`S`,`D` or `H`,`J`,`K`,`L`
 
-`Q`, `Ctrl+C`, window resize - close game
+Close game: `Q`, `Ctrl+C`, window resize
 
 ## Gameplay showcase
 
