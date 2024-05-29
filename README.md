@@ -1,6 +1,6 @@
 <div align = center>
 <h1>orange.sh</h1>
-<img src="orange.gif">
+<img src="orange.png">
 </div>
 
 # Install
@@ -35,5 +35,5 @@ or
 Note: You can increase the number of asterisks at the beginning of the .sh file you want to eat!
 
 <div align = center>
-<img src="orange.png">
+<img src="orange.gif">
 </div>
