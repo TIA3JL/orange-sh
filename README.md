@@ -32,6 +32,7 @@ or
 ```bash
 ./orange.sh --about
 ```
+Note: You can increase the number of asterisks at the beginning of the .sh file you want to eat!
 
 <div align = center>
 <img src="orange.png">
