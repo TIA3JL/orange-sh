@@ -13,7 +13,7 @@ or
 ```bash
 git clone https://github.com/everydayikillmylinux/orange-sh.git && cd orange-sh
 ```
-Make the script executable and run it:
+Make the script executable:
 ```bash
 chmod +x orange.sh
 ```
