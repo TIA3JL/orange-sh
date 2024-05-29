@@ -20,6 +20,7 @@ main()
 		case $arg in
 			--help|-h) msg 3 ;;
 			--about|-a) msg 2 ;;
+			*) printf "Unknown argument: $arg\n" && exit ;;
 		esac
 	done
 
@@ -119,7 +120,7 @@ Notice:
   If you want to change the size of the terminal during the game, the game will close
   Pay attention to the settings at the beginning of the sh file. You can eat more asterisks if you wish!
 
-Author: Arseniy \"everydayikillmylinux\" Kudashkin
+github.com/everydayikillmylinux
 "
 
 msg()
