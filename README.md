@@ -1,12 +1,10 @@
 <div align = center>
 <h1>orange.sh</h1>
 <img src="orange.gif">
+<a href="https://github.com/everydayikillmylinux/orange-sh/wiki/Installation-&-Usage-Guide-Wiki">HOW-TO Install & Usage</a>
 </div>
 
-
 ## Notes
-
-[HOW-TO Install & Usage](https://github.com/everydayikillmylinux/orange-sh/wiki/Installation-&-Usage-Guide-Wiki)
 
 You can increase the number of asterisks at the beginning of the .sh file you want to eat!
 
@@ -15,8 +13,6 @@ Movement keys: `W`,`A`,`S`,`D` or `H`,`J`,`K`,`L`
 Close game: `Q`, `Ctrl+C`, window resize
 
 ---
-
-
 
 <div align = center>
 <img src="ascii_art.png">
