@@ -5,6 +5,9 @@
 
 
 ## Notes
+
+[Little how-to install & Usage](https://github.com/everydayikillmylinux/orange-sh/wiki/Installation-&-Usage-Guide-Wiki)
+
 You can increase the number of asterisks at the beginning of the .sh file you want to eat!
 
 Movement keys: `W`,`A`,`S`,`D` or `H`,`J`,`K`,`L`
