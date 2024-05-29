@@ -1,9 +1,9 @@
 <div align = center>
 <h1>orange.sh</h1>
 <img src="orange.gif">
-<br>
-<img src="orange.png">
 </div>
+
+
 
 # Usage
 
@@ -17,3 +17,7 @@ cd orange-sh
 chmod +x orange.sh
 ./orange.sh
 ```
+
+<div align = center>
+<img src="orange.png">
+</div>
