@@ -11,7 +11,7 @@ You can increase the number of asterisks at the beginning of the .sh file you wa
 
 Movement keys: `W`,`A`,`S`,`D` or `H`,`J`,`K`,`L`
 
-Close game: `Q`, `Ctrl+C`, window resize
+Close game: `Q`, `Ctrl+C`
 
 ---
 
