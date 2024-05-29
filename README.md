@@ -40,6 +40,6 @@ Movement keys: `W`,`A`,`S`,`D` or `H`,`J`,`K`,`L`
 Close game: `Q`, `Ctrl+C`, window resize
 
 <div align = center>
-<h2>showcase</h2>
+<h1>showcase</h1>
 <img src="orange.gif">
 </div>
