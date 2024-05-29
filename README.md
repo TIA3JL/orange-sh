@@ -3,8 +3,7 @@
   <img src="orange.png">
 </p>
 
-
-<center>gameplay showcase</center>
+<div style="text-align: center;">gameplay showcase</div>
 
 <p align="center">
   <img src="orange.gif">
