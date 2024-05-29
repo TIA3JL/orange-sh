@@ -1,6 +1,6 @@
 <div align = center>
 <h1>orange.sh</h1>
-<img src="orange.png">
+<img src="orange.gif">
 </div>
 
 # Install
@@ -40,6 +40,5 @@ Movement keys: `W`,`A`,`S`,`D` or `H`,`J`,`K`,`L`
 Close game: `Q`, `Ctrl+C`, window resize
 
 <div align = center>
-<h1>showcase</h1>
-<img src="orange.gif">
+<img src="orange.png">
 </div>
