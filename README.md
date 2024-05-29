@@ -13,6 +13,8 @@ Movement keys: `W`,`A`,`S`,`D` or `H`,`J`,`K`,`L`
 
 Close game: `Q`, `Ctrl+C`
 
+---
+
 <div align = center>
 <img src="ascii_art.png">
 <br>
