@@ -6,7 +6,7 @@
 
 ## Notes
 
-[Little how-to install & Usage](https://github.com/everydayikillmylinux/orange-sh/wiki/Installation-&-Usage-Guide-Wiki)
+[HOW-TO Install & Usage](https://github.com/everydayikillmylinux/orange-sh/wiki/Installation-&-Usage-Guide-Wiki)
 
 You can increase the number of asterisks at the beginning of the .sh file you want to eat!
 
