@@ -163,7 +163,7 @@ drawAsciiArt()
                    `.._ __ _,-'
 .------------------------------------------------.
 |     In The Garden of Terminal Symbols ...      |
-|Today's the harvest and Orange are getting ready|
+|Today is the harvest and Orange is getting ready|
 |       for being plucked from the branch.       |
 |    Collect special dust "asterisk" to grow.    |
 |       Become the most attractive orange        |
