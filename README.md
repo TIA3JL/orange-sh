@@ -45,5 +45,6 @@ Close game: `Q`, `Ctrl+C`, window resize
 
 <div align = center>
 <img src="ascii_art.png">
+<br>
 Special thanks to [raylduk8](https://github.com/raylduk8) for this precious storyline
 </div>
