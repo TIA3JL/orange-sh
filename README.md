@@ -3,6 +3,10 @@
   <img src="orange.png">
 </p>
 
+<p align="center">
+  <img src="orange.gif">
+</p>
+
 
 # Usage
 
