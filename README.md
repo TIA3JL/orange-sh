@@ -34,7 +34,7 @@ or
 ```
 ## Notes: 
 You can increase the number of asterisks at the beginning of the .sh file you want to eat!
-`W``A``S``D`, `H``J``K``L` - movement keys
+`W`,`A`,`S`,`D`, `H`,`J`,`K`,`L` - movement keys
 
 ## Gameplay showcase
 
