@@ -6,17 +6,16 @@
 # Install
 
 Get the script:
-```
+```bash
 wget https://raw.githubusercontent.com/everydayikillmylinux/orange-sh/main/orange.sh
 ```
 or
 ```bash
 git clone https://github.com/everydayikillmylinux/orange-sh.git && cd orange-sh
 ```
-
-```
-chmod +x orange.sh
-./orange.sh
+Make the script executable and run it:
+```bash
+chmod +x orange.sh && ./orange.sh
 ```
 
 # Usage
