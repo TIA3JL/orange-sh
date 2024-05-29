@@ -1,8 +1,8 @@
 <div align = center>
 <h1>orange.sh</h1>
-<img src="orange.png">
-<br>
 <img src="orange.gif">
+<br>
+<img src="orange.png">
 </div>
 
 # Usage
