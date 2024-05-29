@@ -3,6 +3,9 @@
   <img src="orange.png">
 </p>
 
+
+^Gameplay Showcase^
+
 <p align="center">
   <img src="orange.gif">
 </p>
