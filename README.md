@@ -36,6 +36,7 @@ or
 You can increase the number of asterisks at the beginning of the .sh file you want to eat!
 
 `W`,`A`,`S`,`D`, `H`,`J`,`K`,`L` - movement keys
+
 `Q`, `Ctrl+C`, window resize - close game
 
 ## Gameplay showcase
