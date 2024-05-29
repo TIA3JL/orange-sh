@@ -39,6 +39,9 @@ Movement keys: `W`,`A`,`S`,`D` or `H`,`J`,`K`,`L`
 
 Close game: `Q`, `Ctrl+C`, window resize
 
+---
+
+
 <div align = center>
 <img src="ascii_art.png">
 </div>
