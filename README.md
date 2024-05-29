@@ -18,7 +18,7 @@ Make the script executable:
 chmod +x orange.sh
 ```
 
-# Usage
+# Usage, gameplay showcase & notes
 
 After completing the installation above, run the script.
 ```bash
@@ -32,7 +32,8 @@ or
 ```bash
 ./orange.sh --about
 ```
-Note: You can increase the number of asterisks at the beginning of the .sh file you want to eat!
+## Notes: 
+You can increase the number of asterisks at the beginning of the .sh file you want to eat!
 
 <div align = center>
 <img src="orange.gif">
