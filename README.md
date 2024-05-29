@@ -4,7 +4,7 @@
 </p>
 
 
-^Gameplay Showcase^
+<center>gameplay showcase</center>
 
 <p align="center">
   <img src="orange.gif">
