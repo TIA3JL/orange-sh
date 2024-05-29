@@ -15,7 +15,7 @@ git clone https://github.com/everydayikillmylinux/orange-sh.git && cd orange-sh
 ```
 Make the script executable and run it:
 ```bash
-chmod +x orange.sh && ./orange.sh
+chmod +x orange.sh
 ```
 
 # Usage
