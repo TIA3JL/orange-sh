@@ -32,15 +32,14 @@ or
 ```bash
 ./orange.sh --about
 ```
-## Notes: 
+## Notes
 You can increase the number of asterisks at the beginning of the .sh file you want to eat!
 
 Movement keys: `W`,`A`,`S`,`D` or `H`,`J`,`K`,`L`
 
 Close game: `Q`, `Ctrl+C`, window resize
 
-## Gameplay showcase
-
 <div align = center>
+<h2>showcase</h2>
 <img src="orange.gif">
 </div>
