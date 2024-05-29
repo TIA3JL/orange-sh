@@ -117,7 +117,7 @@ Options:
   --about   little story about this game
 
 Notice:
-  If you want to change the size of the terminal during the game, the game will close
+  If you want to change the size of the terminal during the game, the game will close.
   Pay attention to the settings at the beginning of the sh file. You can eat more asterisks if you wish!
 
 github.com/everydayikillmylinux
