@@ -1,5 +1,5 @@
 <div align = center>
-# orange.sh
+<h1>orange.sh</h1>
 <img src="orange.png">
 <br>
 <img src="orange.gif">
