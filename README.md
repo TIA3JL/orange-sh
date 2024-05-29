@@ -1,6 +1,7 @@
 <div align = center>
-  <img src="orange.png">
-  <img src="orange.gif">
+<img src="orange.png">
+<br>
+<img src="orange.gif">
 </div>
 
 # Usage
