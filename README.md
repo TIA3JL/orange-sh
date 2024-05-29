@@ -1,6 +1,7 @@
 <div align = center>
 <h1>orange.sh</h1>
 <img src="orange.gif">
+<br>
 <a href="https://github.com/everydayikillmylinux/orange-sh/wiki/Installation-&-Usage-Guide-Wiki">HOW-TO Install & Usage</a>
 </div>
 
